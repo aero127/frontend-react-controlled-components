@@ -1,1 +1,19 @@
 /*Schrijf hier jouw css voor jouw formulier*/
+fieldset {
+    background: lightgray;
+    color: black;
+}
+
+button {
+    font-style: italic;
+    color: white;
+    background: dimgray;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+}
